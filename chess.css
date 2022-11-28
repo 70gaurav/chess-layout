@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.chess{
+    background-color: grey;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.white{
+    background-color: white;
+    height: 150px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.black{
+    background-color: black;
+    height: 150px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img{
+    width: 50%;
+}
+.sp{
+    width: 90%;
+}
